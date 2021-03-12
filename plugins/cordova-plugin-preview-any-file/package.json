@@ -1,0 +1,54 @@
+{
+  "_from": "cordova-plugin-preview-any-file@0.2.3",
+  "_id": "cordova-plugin-preview-any-file@0.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-MznDfilACx/uvulZf/NZYdhAPvLus1QSk1/K+ZTjKMW+lYJuBlttPDnQRjRxkqYphOcef7p/o/TgxTltGnh/lA==",
+  "_location": "/cordova-plugin-preview-any-file",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-preview-any-file@0.2.3",
+    "name": "cordova-plugin-preview-any-file",
+    "escapedName": "cordova-plugin-preview-any-file",
+    "rawSpec": "0.2.3",
+    "saveSpec": null,
+    "fetchSpec": "0.2.3"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-preview-any-file/-/cordova-plugin-preview-any-file-0.2.3.tgz",
+  "_shasum": "e79fcd813423f274f38fcee364c3ffd0652fe1fd",
+  "_spec": "cordova-plugin-preview-any-file@0.2.3",
+  "_where": "/Users/a608894/Documents/repos/preview/Preview",
+  "author": {
+    "name": "Mostafa Mansour",
+    "email": "mostafa@outlook.kr"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-preview-any-file",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Plugin to preview any file type from any where in native mode",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "view document",
+    "pdf",
+    "doc",
+    "docx",
+    "cordova zip",
+    "cordova document"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-preview-any-file",
+  "version": "0.2.3"
+}

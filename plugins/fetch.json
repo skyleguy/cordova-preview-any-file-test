@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-preview-any-file": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-preview-any-file@0.2.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "com.doc.preview",
+  "appName": "Preview",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "npmClient": "npm"
+}
